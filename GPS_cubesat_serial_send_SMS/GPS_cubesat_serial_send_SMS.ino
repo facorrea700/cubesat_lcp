@@ -1,5 +1,4 @@
-
-#include <Adafruit_GPS.h>
+include <Adafruit_GPS.h>
 #include <SoftwareSerial.h>
 #define GPSECHO false
 #define TX 4
